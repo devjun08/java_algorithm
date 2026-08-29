@@ -1,5 +1,5 @@
 # java_algorithm
 one day one algorithm
 
-Tstory
+Tistory
 https://jundev08.tistory.com/category/Algorithm
